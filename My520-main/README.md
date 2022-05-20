@@ -3,7 +3,7 @@
 
 
 ## 一：项目展示
-[https://hu1243.github.io/My520/](https://hu1243.github.io/My520/)
+[https://github.com/syysyysyy/MY-520/](https://hu1243.github.io/My520/)
 
 
 ## 二：使用方法
